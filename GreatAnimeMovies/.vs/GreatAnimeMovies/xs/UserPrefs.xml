@@ -4,8 +4,9 @@
       <File FileName="GreatAnimeMovies/Models/GreatAnimeMovie.cs" Line="22" Column="34" />
       <File FileName="GreatAnimeMovies/Startup.cs" Line="43" Column="38" />
       <File FileName="GreatAnimeMovies/appsettings.json" Line="7" Column="70" />
-      <File FileName="GreatAnimeMovies/Pages/Movies/Create.cshtml" Line="1" Column="1" />
+      <File FileName="GreatAnimeMovies/Pages/Movies/Create.cshtml" Line="56" Column="79" />
       <File FileName="GreatAnimeMovies/Pages/Movies/Create.cshtml.cs" Line="1" Column="1" />
+      <File FileName="GreatAnimeMovies/Pages/Movies/Edit.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,6 +18,7 @@
               <Node name="Pages" expanded="True">
                 <Node name="Movies" expanded="True">
                   <Node name="Create.cshtml" expanded="True" selected="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
                 </Node>
               </Node>
             </Node>
